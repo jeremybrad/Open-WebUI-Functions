@@ -1,3 +1,6 @@
+> ✨ Forked by Jeremy Bradford for personal LLM agent infrastructure development.
+> Includes memory routing, DrillMaster workflows, and n8n integrations tailored to OpenWebUI.
+
 # Open-WebUI-Functions
 ![GitHub stars](https://img.shields.io/github/stars/owndev/Open-WebUI-Functions?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/owndev/Open-WebUI-Functions?style=social)
